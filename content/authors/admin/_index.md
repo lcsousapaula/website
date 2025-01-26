@@ -94,15 +94,15 @@ skills:
       - name: Molecular Biology
         description: ''
         percent: 80
-        icon: fa-solid fa-dna
+        icon: <i class="fa-solid fa-dna"></i>
       - name: Phylogeny
         description: ''
         percent: 100
-        icon: align
+        icon: <i class="fa-solid fa-diagram-project"></i>
       - name: Programming
         description: ''
         percent: 70
-        icon: pc
+        icon: <i class="fa-solid fa-square-binary"></i>
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
