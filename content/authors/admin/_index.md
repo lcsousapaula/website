@@ -3,7 +3,7 @@
 title: Lucas Sousa-Paula
 
 # Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
+name_pronunciation: MSc, PhD
 
 # Full name (for SEO)
 first_name: Lucas Christian de
@@ -17,8 +17,7 @@ last_name: Sousa-Paula
 superuser: true
 
 # Role/position/tagline
-role: MSc, PhD
-      | Vector Biologist
+role: Vector Biologist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
