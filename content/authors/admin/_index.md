@@ -94,15 +94,15 @@ skills:
       - name: Molecular Biology
         description: ''
         percent: 80
-        icon: devicon/python
+        icon: dna
       - name: Phylogeny
         description: ''
         percent: 100
-        icon: devicon/rstudio
-      - name: Bioinformatics
+        icon: align
+      - name: Programming
         description: ''
         percent: 70
-        icon: devicon/pytorch
+        icon: pc
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
