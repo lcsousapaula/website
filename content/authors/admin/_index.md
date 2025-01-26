@@ -35,7 +35,7 @@ profiles:
     url: https://x.com/LCSousaPaula
   - icon: brands/github
     url: https://github.com/lcsousapaula
-  - icon: ResearchGate
+  - icon: "fa-brands fa-researchgate"
     url: https://www.researchgate.net/profile/Lucas-Sousa-Paula/
   - icon: brands/instagram
     url: https://www.instagram.com/lcsousapaula/
