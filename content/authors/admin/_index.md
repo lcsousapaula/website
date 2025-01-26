@@ -94,7 +94,7 @@ skills:
       - name: Molecular Biology
         description: ''
         percent: 80
-        icon: dna
+        icon: fa-solid fa-dna
       - name: Phylogeny
         description: ''
         percent: 100
