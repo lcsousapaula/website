@@ -35,7 +35,7 @@ profiles:
     url: https://x.com/LCSousaPaula
   - icon: brands/github
     url: https://github.com/lcsousapaula
-  - icon: website/assets/media/icons/ResearchGate.svg
+  - icon: ResearchGate
     url: https://www.researchgate.net/profile/Lucas-Sousa-Paula/
   - icon: brands/instagram
     url: https://www.instagram.com/lcsousapaula/
@@ -43,8 +43,8 @@ profiles:
 education:
   - area: PhD Ecobiology of Pathogens, Vectors, and Hosts
     institution: Aggeu Magalhães Institute, Oswaldo Cruz Foundation (Fiocruz Pernambuco)
-    date_start: 2018
-    date_end: 2022
+    date_start: 03-01-2018
+    date_end: 03-31-2022
     summary: |
       Thesis on The Lutzomyia longipalpis complex. Supervised by Dr. Filipe Dantas-Torres (https://example.com).
     button:
@@ -52,8 +52,8 @@ education:
       url: 'https://example.com'
   - area: MSc Biological Sciences
     institution: Federal University of Pernambuco
-    date_start: 2016
-    date_end: 2018
+    date_start: 03-01-2016
+    date_end: 03-31-2018
     summary: |
       GPA: 3.8/4.0
 
@@ -63,8 +63,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Biological Sciences
     institution: Universidade Estadual Vale do Acaraú
-    date_start: 2011
-    date_end: 2015
+    date_start: 08-01-2011
+    date_end: 12-31-2015
     summary: |
       GPA: 3.4/4.0
       
@@ -77,8 +77,8 @@ work:
     company_name: National Institutes of Health, National Institute of Allergy and Infectious Diseases
     company_url: https://www.niaid.nih.gov/node/17825
     company_logo: NIH
-    date_start: 2022
-    date_end: 2025
+    date_start: 08-15-2022
+    date_end: 12-31-2025
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -91,17 +91,17 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Molecular Biology
         description: ''
         percent: 80
         icon: devicon/python
-      - name: RStudio
+      - name: Phylogeny
         description: ''
         percent: 100
         icon: devicon/rstudio
-      - name: PyTorch
+      - name: Bioinformatics
         description: ''
-        percent: 40
+        percent: 70
         icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
@@ -111,7 +111,7 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Parenting
         description: ''
         percent: 100
         icon: cat
@@ -122,9 +122,7 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
+    percent: 70
   - name: Portuguese
     percent: 25
 
