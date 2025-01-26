@@ -41,7 +41,7 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Ecobiology of Pathogens, Vectors, and Hosts
     institution: Aggeu Magalhães Institute, Oswaldo Cruz Foundation (Fiocruz Pernambuco)
     date_start: 2018
     date_end: 2022
