@@ -78,7 +78,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022
-    date_end: Current
+    date_end: 2025
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
