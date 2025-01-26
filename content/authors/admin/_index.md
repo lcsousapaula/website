@@ -41,12 +41,12 @@ profiles:
     url: https://www.instagram.com/lcsousapaula/
 
 education:
-  - area: PhD - Ecobiology of Pathogens, Vectors, and Hosts
+  - area: PhD Ecobiology of Pathogens, Vectors, and Hosts
     institution: Aggeu Magalhães Institute, Oswaldo Cruz Foundation (Fiocruz Pernambuco)
     date_start: 2018
     date_end: 2022
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on The Lutzomyia longipalpis complex. Supervised by Dr. Filipe Dantas-Torres (https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
