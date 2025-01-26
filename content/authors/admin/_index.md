@@ -46,7 +46,7 @@ education:
     date_start: 2018
     date_end: 2022
     summary: |
-      Thesis on The Lutzomyia longipalpis complex. Supervised by Dr. Filipe Dantas-Torres (https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on The Lutzomyia longipalpis complex. Supervised by Dr. Filipe Dantas-Torres (https://example.com).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -74,9 +74,9 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Postdoctoral Visiting Fellow
-    company_name: National Institute of Allergy and Infectious Diseases
-    company_url: ''
-    company_logo: ''
+    company_name: National Institutes of Health, National Institute of Allergy and Infectious Diseases
+    company_url: https://www.niaid.nih.gov/node/17825
+    company_logo: NIH
     date_start: 2022
     date_end: 2025
     summary: |2-
@@ -84,17 +84,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
